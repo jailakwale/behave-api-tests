@@ -34,6 +34,10 @@ behave
 
 ## Project Structure
 
+<pre>
+<code>
+```
+
 behave_api_test/
 ├── features/
 │   ├── steps/
@@ -46,6 +50,10 @@ behave_api_test/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+
+```
+<code>
+<pre>
 
 
 🛠 Dependencies
