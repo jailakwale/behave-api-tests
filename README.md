@@ -32,9 +32,9 @@ pip install -r requirements.txt
 behave
 ```
 
-## Project Structure
+# Project Structure
 
-<pre>
+
 <code>
 ```
 
@@ -53,7 +53,7 @@ behave_api_test/
 
 ```
 <code>
-<pre>
+
 
 
 🛠 Dependencies
