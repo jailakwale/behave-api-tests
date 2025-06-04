@@ -35,7 +35,7 @@ behave
 # Project Structure
 
 
-<code>
+<pre>
 ```
 
 behave_api_test/
@@ -51,8 +51,8 @@ behave_api_test/
 ├── requirements.txt
 └── README.md
 
-```
-<code>
+</pre>
+
 
 
 
